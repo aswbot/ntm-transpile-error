@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "@app/components",
+  "version": "0.0.1",
+  "main": "src/index.ts",
+  "dependencies": {
+    "clsx": "^1.1.1",
+    "framer-motion": "^2.3.0",
+    "lodash": "^4.17.19",
+    "tinykeys": "^1.0.6"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "typescript": "*"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.44"
+  }
+}
